@@ -39,6 +39,7 @@ extensions = [
     'sphinx.ext.extlinks',
     'sphinx.ext.graphviz',
     'sphinxcontrib.plantuml',
+    'sphinx_tabs.tabs',
 ]
 
 myst_enable_extensions = ['colon_fence']
